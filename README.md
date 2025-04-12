@@ -9,7 +9,7 @@ The main objective of the project was to explore the effect of geometric and flo
 ## 🧠 What's Inside
 
 - `/Geometry Codes/` – Micromixer geometry data (e.g., coordinates of fins or channel structure).
-- `/Results.rar/` – Sample visual results and figures (e.g., mixing index vs. Re, flow visualization).
+- `/Results/` – Sample visual results and figures (e.g., mixing index vs. Re, flow visualization).
 - `README.md` – You're here.
 
 ---
