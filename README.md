@@ -1,6 +1,6 @@
-# PINN Micromixer – Extra Codes and Results
+# FlexPINN Micromixer project – Extra Codes and Results
 
-This repository contains **sample codes, geometries, and additional results** from a project where we used **Physics-Informed Neural Networks (PINNs)** to simulate a **3D micromixer** with various fin shapes, orientations, and Reynolds numbers.
+This repository contains **sample codes, geometries, and additional results** from a project where we used **Flexible Physics-Informed Neural Networks (FlexPINNs)** to simulate a **3D micromixer** with various fin shapes, orientations, and Reynolds numbers.
 
 The main objective of the project was to explore the effect of geometric and flow variations on mixing efficiency within micromixers, validated against COMSOL results.
 
